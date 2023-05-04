@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println();
 
-        System.out.println(" Hello the following program will allow you to enter numbers until your type a string, it will calculate the sum and the average of all typed numbers...");
+        System.out.println(" Hello the following program will allow you to enter numbers until you type a string, it will calculate the sum and the average of all typed numbers...");
 
         System.out.println();
 
